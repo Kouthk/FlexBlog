@@ -15,4 +15,4 @@
 ## 📋 Considerações Finais
 
 Projeto Finalizado ✅.
- 
+Deploy com GitHub Pages: [FlexBlog](https://kouthk.github.io/FlexBlog/) ✅.
