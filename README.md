@@ -1,6 +1,6 @@
 ## 🗃️ FlexBlog
 
-- Site utilizado para treinar e estudar flexbox
+- Site desenvolvido para treinar e estudar flexbox
 
 <strong>FlexBlog:</strong>  Tags do flexbox sendo demonstradas e usadas em todo o site. 
 
